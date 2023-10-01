@@ -1,5 +1,5 @@
 """
-Description: Get the frequency spectrum
+Description: Compute the frequency spectrum
 Usage: 
 Input: each function has its own input data, please check
 Output: each function has its own output data, please check
